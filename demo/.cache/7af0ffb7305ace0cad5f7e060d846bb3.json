@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"function name(params) {\r\n    alert(params);\r\n}\r\nname('yy');"},"hash":"f155bdca0e3a794599fece6d5743ce67"}

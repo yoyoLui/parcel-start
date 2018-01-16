@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./lignt.png","dynamic":true},{"name":"./index.js","dynamic":true}],"generated":{"html":"<html>\r\n\r\n<body>\r\n    <div id=\"root\">\r\n        <img src=\"/dist/14798f0a3516d5af27be6cf3104c4dd2.png\">\r\n    </div>\r\n    <script src=\"/dist/parcel-react-helloworld.js\"></script>\r\n</body>\r\n\r\n</html>"},"hash":"4cc5ba498874cc5f1a773e76e8a5bd76"}
